@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:dot_navigation_bar/dot_navigation_bar.dart';
+
 import 'package:cashapp/components/BottomMainNavigationBar.dart';
 import 'package:cashapp/components/PrimaryTextComponent.dart';
 import 'package:cashapp/components/CustomizedAppBar.dart';
