@@ -1,16 +1,9 @@
-# ncafe
+# cashApp
 
-A new Flutter project.
+This is wallet app which can be used to manage your budget.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_1708753732](https://github.com/sachinNishalka/cashApp/assets/72740598/a96190f5-8af8-45da-8c38-f661c6c3b5bf)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
