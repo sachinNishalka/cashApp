@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:dot_navigation_bar/dot_navigation_bar.dart';
+
 import 'package:cashapp/components/BottomMainNavigationBar.dart';
 import 'package:cashapp/components/PrimaryTextComponent.dart';
 import 'package:cashapp/components/CustomizedAppBar.dart';
 import 'package:cashapp/components/PrimaryContainer.dart';
+import 'package:cashapp/components/SecondaryContainer.dart';
 
 class DetailsScreen extends StatelessWidget {
   DetailsScreen({super.key});
@@ -56,7 +57,6 @@ class DetailsScreen extends StatelessWidget {
                       height: 20.0,
                     ),
                     PrimaryContainer(
-                      componentColor: Color(0xff92D899),
                       componentWidgets: Column(
                         children: [
                           Row(
@@ -94,8 +94,7 @@ class DetailsScreen extends StatelessWidget {
                     SizedBox(
                       height: 10.0,
                     ),
-                    PrimaryContainer(
-                      componentColor: Color(0xffFFEDBF),
+                    SecondaryContainer(
                       componentWidgets: Column(
                         children: [
                           Row(

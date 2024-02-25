@@ -1,10 +1,10 @@
 import "package:flutter/material.dart";
 
-class PrimaryContainer extends StatelessWidget {
-  Color componentColor = Color(0xff92D899);
+class SecondaryContainer extends StatelessWidget {
+  Color? componentColor = Color(0xffFFEDBF);
   Widget? componentWidgets;
 
-  PrimaryContainer({this.componentWidgets});
+  SecondaryContainer({this.componentWidgets});
 
   @override
   Widget build(BuildContext context) {
