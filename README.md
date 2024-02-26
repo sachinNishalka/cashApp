@@ -14,5 +14,13 @@ This is wallet app which can be used to manage your budget.
 ![Screenshot_1708772326](https://github.com/sachinNishalka/cashApp/assets/72740598/83db70cf-101d-4e4c-8df8-cf343f839884)
 
 # Home Screen Other Widgets
+
 ![Screenshot_1708856117](https://github.com/sachinNishalka/cashApp/assets/72740598/31124f4e-841f-444c-b966-66f4483f0895)
 
+# Report Screen
+
+![Screenshot_1708944410](https://github.com/sachinNishalka/cashApp/assets/72740598/12494a08-9511-424a-99f6-57a86a8de412)
+
+# Report Screen Other Widgets
+
+![Screenshot_1708944413](https://github.com/sachinNishalka/cashApp/assets/72740598/b46aa66e-bb6e-47af-8e3b-2aa2fbbf27b4)
