@@ -10,14 +10,13 @@ class ExpensesVsIncome {
 
   static List<ExpensesVsIncome> getExpenseVsIncome() {
     final List<ExpensesVsIncome> chartdata = [
-      ExpensesVsIncome(day: "Monday", incomeValue: 5000, expenseValue: 15000),
-      ExpensesVsIncome(day: "Tuesday", incomeValue: 7000, expenseValue: 2500),
-      ExpensesVsIncome(
-          day: "Wednesday", incomeValue: 10000, expenseValue: 1000),
-      ExpensesVsIncome(day: "Thursday", incomeValue: 2500, expenseValue: 1000),
-      ExpensesVsIncome(day: "Friday", incomeValue: 15000, expenseValue: 2000),
-      ExpensesVsIncome(day: "Saturday", incomeValue: 1000, expenseValue: 900),
-      ExpensesVsIncome(day: "Sunday", incomeValue: 1000, expenseValue: 1000)
+      ExpensesVsIncome(day: "M", incomeValue: 5000, expenseValue: 15000),
+      ExpensesVsIncome(day: "T", incomeValue: 7000, expenseValue: 2500),
+      ExpensesVsIncome(day: "W", incomeValue: 10000, expenseValue: 1000),
+      ExpensesVsIncome(day: "Th", incomeValue: 2500, expenseValue: 1000),
+      ExpensesVsIncome(day: "F", incomeValue: 15000, expenseValue: 2000),
+      ExpensesVsIncome(day: "Sa", incomeValue: 1000, expenseValue: 900),
+      ExpensesVsIncome(day: "S", incomeValue: 1000, expenseValue: 1000)
     ];
 
     return chartdata;
