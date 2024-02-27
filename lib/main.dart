@@ -1,3 +1,4 @@
+import 'package:cashapp/screens/addDetails.dart';
 import 'package:flutter/material.dart';
 import 'package:cashapp/Screens/details.dart';
 import 'package:cashapp/Screens/home.dart';
@@ -7,7 +8,7 @@ void main() {
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: ReportScreen(),
+      home: AddDetailsScreen(),
     ),
   );
 }
